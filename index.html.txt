@@ -1,2 +1,4 @@
 <html>
-outro conteudo adicionado
+
+atualiza�ao da pagina HTML hoje
+>>>>>>> altconf
