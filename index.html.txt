@@ -2,3 +2,5 @@
 
 atualiza�ao da pagina HTML hoje
 >>>>>>> altconf
+
+Nova alteraçao
